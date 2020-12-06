@@ -4,8 +4,6 @@ Inspiration "Merge two sorted linked lists" https://www.educative.io/blog/crack-
 
 Given two sorted linked lists, merge them so that the resulting linked list is also sorted. Consider two sorted linked lists and the merged list below them as an example.
 
-Input: 
-Output: 
 
 Questions 
 ---------------------------------------
