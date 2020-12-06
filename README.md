@@ -1,8 +1,7 @@
 # Merging_Linked_Lists
 
-Inspiration "Merge two sorted linked lists
+Inspiration "Merge two sorted linked lists" https://www.educative.io/blog/crack-amazon-coding-interview-questions
 
-3. Merge two sorted linked lists
 Given two sorted linked lists, merge them so that the resulting linked list is also sorted. Consider two sorted linked lists and the merged list below them as an example.
 
 Input: 
@@ -12,6 +11,7 @@ Questions
 ---------------------------------------
 - What values will be in the list? All numerical? 
 - Will I need to consider negatives?
+- Is it s adoubly linked list?
 
 Assumptions 
 ---------------------------------------
