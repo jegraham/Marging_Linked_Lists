@@ -1,4 +1,4 @@
-# Marging_Linked_Lists
+# Merging_Linked_Lists
 
 Inspiration "Merge two sorted linked lists
 
