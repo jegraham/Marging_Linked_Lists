@@ -1,5 +1,7 @@
 # Marging_Linked_Lists
 
+Inspiration "Merge two sorted linked lists
+
 3. Merge two sorted linked lists
 Given two sorted linked lists, merge them so that the resulting linked list is also sorted. Consider two sorted linked lists and the merged list below them as an example.
 
@@ -14,7 +16,8 @@ Questions
 Assumptions 
 ---------------------------------------
 - Will be positive numbers 0+ 
-- The Linked Lists will be provided. 
+- The Linked Lists will be provided
+- Linked Lists are sorted
 
 Solutions
 ---------------------------------------
